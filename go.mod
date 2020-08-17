@@ -1,4 +1,4 @@
-module gitlab.internal.b2w.io/team/restql/restql-golang-plugin-greeting.git
+module github.com/caiorcferreira/greeting-plugin
 
 go 1.14
 
